@@ -25,7 +25,7 @@
 * The running time column
 * ​The cleaned Wikipedia data is converted to a Pandas DataFrame, and the DataFrame is displayed in the ETL_clean_wiki_movies.ipynb file. 
 #
-### Deliverable 3 - Extract and Transform the Kaggle Data 
+### Deliverable 3 - Extract and Transform the Kaggle Data    
 #
 * The extraction and transformation of the Kaggle metadata using the ETL function does the following:
     * The Kaggle metadata is cleaned. 
